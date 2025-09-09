@@ -67,6 +67,7 @@ builder.Services.AddControllers();
 
 // Các services khác...
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<ITokenService, TokenService>(); // Đăng ký service mới
 
 var app = builder.Build();
 

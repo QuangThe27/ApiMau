@@ -88,3 +88,4 @@ D:\Fint\DoTuan\ApiMau\ApiMau\obj\Debug\net8.0\ApiMau.pdb
 D:\Fint\DoTuan\ApiMau\ApiMau\obj\Debug\net8.0\ApiMau.genruntimeconfig.cache
 D:\Fint\DoTuan\ApiMau\ApiMau\obj\Debug\net8.0\ref\ApiMau.dll
 D:\Fint\DoTuan\ApiMau\ApiMau\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Fint\DoTuan\ApiMau\ApiMau\obj\Debug\net8.0\ApiMau.sourcelink.json

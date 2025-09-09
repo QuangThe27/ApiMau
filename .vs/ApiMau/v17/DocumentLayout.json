@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Fint\\DoTuan\\ApiMau\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|d:\\fint\\dotuan\\apimau\\apimau\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{914E5E84-8356-4331-87D4-D6A101C292B3}|ApiMau\\ApiMau.csproj|solutionrelative:apimau\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Program.cs",
-              "RelativeDocumentMoniker": "ApiMau\\Program.cs",
-              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Program.cs",
-              "RelativeToolTip": "ApiMau\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEkAAAAnAAAAAAAAAA==",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ApiMau\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ApiMau\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:00:17.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "ApiMau\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "ApiMau\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:48:02.61Z",
+              "WhenOpened": "2025-09-09T17:11:55.674Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\IAuthService.cs",
-              "RelativeDocumentMoniker": "ApiMau\\Services\\IAuthService.cs",
-              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\IAuthService.cs",
-              "RelativeToolTip": "ApiMau\\Services\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Program.cs",
+              "RelativeDocumentMoniker": "ApiMau\\Program.cs",
+              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Program.cs",
+              "RelativeToolTip": "ApiMau\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAWwCEAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:46:08.717Z",
+              "WhenOpened": "2025-09-09T17:02:58.313Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "ApiMau\\Services\\AuthService.cs",
-              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\AuthService.cs",
-              "RelativeToolTip": "ApiMau\\Services\\AuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ApiMau\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ApiMau\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:45:10.777Z",
+              "WhenOpened": "2025-09-09T16:55:45.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ITokenService.cs",
-              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\ITokenService.cs",
-              "RelativeDocumentMoniker": "ApiMau\\Services\\ITokenService.cs",
-              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\ITokenService.cs",
-              "RelativeToolTip": "ApiMau\\Services\\ITokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ApiMau\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "ApiMau\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:58:08.936Z",
+              "WhenOpened": "2025-09-09T16:54:08.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TokenService.cs",
-              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\TokenService.cs",
-              "RelativeDocumentMoniker": "ApiMau\\Services\\TokenService.cs",
-              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\TokenService.cs",
-              "RelativeToolTip": "ApiMau\\Services\\TokenService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ApiMau\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\IAuthService.cs",
+              "RelativeToolTip": "ApiMau\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:58:37.032Z",
+              "WhenOpened": "2025-09-09T16:52:41.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ApiMau\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Fint\\DoTuan\\ApiMau\\ApiMau\\Services\\AuthService.cs",
+              "RelativeToolTip": "ApiMau\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:56:19.618Z",
               "EditorCaption": ""
             }
           ]

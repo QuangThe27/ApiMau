@@ -1,5 +1,4 @@
 ﻿using ApiMau.Data;
-using ApiMau.Models;
 using ApiMau.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
@@ -67,7 +66,8 @@ builder.Services.AddControllers();
 
 // Các services khác...
 builder.Services.AddScoped<IAuthService, AuthService>();
-builder.Services.AddScoped<ITokenService, TokenService>(); // Đăng ký service mới
+builder.Services.AddScoped<ITokenService, TokenService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
 var app = builder.Build();
 

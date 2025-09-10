@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMau")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dda0aedaa5a004b2d5d654312d37050556be983")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+23d3920adbeb0bfc9a7969cb1e871952a3eedac9")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMau")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMau")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

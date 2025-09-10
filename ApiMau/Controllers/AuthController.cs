@@ -1,6 +1,6 @@
 ﻿// Controllers/AuthController.cs
 using ApiMau.DTOs;
-using ApiMau.Services;
+using ApiMau.Services.AuthService;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ApiMau.Controllers
@@ -19,7 +19,7 @@ namespace ApiMau.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login([FromBody] LoginDto loginDto)
+        public async Task<IActionResult> Login([FromBody] AuthDto loginDto)
         {
             // Bước 1: Controller gọi Business Service (AuthService) để xác thực
             var user = await _authService.AuthenticateUser(loginDto.Email, loginDto.Password);

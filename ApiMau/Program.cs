@@ -1,5 +1,6 @@
 ﻿using ApiMau.Data;
-using ApiMau.Services;
+using ApiMau.Services.AuthService;
+using ApiMau.Services.UserService;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;

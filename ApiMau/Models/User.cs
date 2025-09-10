@@ -3,9 +3,9 @@
     public class User
     {
         public int Id { get; set; }
-        public string FullName { get; set; }
-        public string Email { get; set; } // Unique
-        public string Password { get; set; }
-        public string Role { get; set; } // Role ["user", "admin"]
+        public required string FullName { get; set; }
+        public required string Email { get; set; } // Unique
+        public required string Password { get; set; }
+        public required string Role { get; set; } // Role ["user", "admin"]
     }
 }

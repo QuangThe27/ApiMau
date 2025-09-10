@@ -3,7 +3,7 @@ using ApiMau.Data;
 using ApiMau.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ApiMau.Services
+namespace ApiMau.Services.AuthService
 {
     public class AuthService : IAuthService
     {
@@ -15,7 +15,7 @@ namespace ApiMau.Services
         }
 
         // Phương thức này chỉ xác thực và trả về đối tượng User
-        public async Task<User> AuthenticateUser(string email, string password)
+        public async Task<User?> AuthenticateUser(string email, string password)
         {
             var user = await _dbContext.Users.SingleOrDefaultAsync(u => u.Email == email);
             if (user == null)

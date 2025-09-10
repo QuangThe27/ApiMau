@@ -1,5 +1,5 @@
 ﻿// Services/ITokenService.cs
-namespace ApiMau.Services
+namespace ApiMau.Services.AuthService
 {
     public interface ITokenService
     {
